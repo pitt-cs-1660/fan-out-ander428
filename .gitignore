@@ -225,3 +225,5 @@ output-*
 #policies
 policies/*
 uris.txt
+
+.json
